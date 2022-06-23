@@ -1,0 +1,10 @@
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\bin\Debug\Gauss-Jordan.exe.config
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\bin\Debug\Gauss-Jordan.exe
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\bin\Debug\Gauss-Jordan.pdb
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss-Jordan.csproj.AssemblyReference.cache
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss_Jordan.Form1.resources
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss_Jordan.Properties.Resources.resources
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss-Jordan.csproj.GenerateResource.cache
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss-Jordan.csproj.CoreCompileInputs.cache
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss-Jordan.exe
+C:\Users\fachr\source\repos\Gauss-Jordan\Gauss-Jordan\obj\Debug\Gauss-Jordan.pdb
